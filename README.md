@@ -8,4 +8,4 @@ To lunch an interactive notebook on binder please click here
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/a2soliman/ec20/master?filepath=ks-preprocess-dem.ipynb)
 
-A static version is also available [here](https://github.com/a2soliman/ec20/blob/master/ks-preprocess-dem.ipynb)       
+A static version is also available [here](https://github.com/earthcube2020/ec20_soliman_etal/blob/master/ks-preprocess-dem.ipynb)       
